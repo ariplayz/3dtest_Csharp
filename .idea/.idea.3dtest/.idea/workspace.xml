@@ -8,14 +8,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26ce80a7-b5a9-4aab-b984-da8dcf711ec0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.3dtest/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.3dtest/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.3dtest/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.3dtest/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3dtest.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3dtest.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +18,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ariplayz"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ariplayz/3dtest_Csharp.git",
+    "accountId": "7b07f2a7-caa6-4fa8-bf4d-1bb7c7f68c61"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -87,7 +92,7 @@
       <updated>1762799514712</updated>
       <workItem from="1762799541921" duration="559000" />
       <workItem from="1762800701698" duration="120000" />
-      <workItem from="1762800894814" duration="1348000" />
+      <workItem from="1762800894814" duration="1670000" />
     </task>
     <servers />
   </component>
