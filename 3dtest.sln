@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3dtest", "3dtest.csproj", "{57025F35-B75C-440B-BF0F-E7FB2EAF8EF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57025F35-B75C-440B-BF0F-E7FB2EAF8EF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57025F35-B75C-440B-BF0F-E7FB2EAF8EF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57025F35-B75C-440B-BF0F-E7FB2EAF8EF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57025F35-B75C-440B-BF0F-E7FB2EAF8EF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
